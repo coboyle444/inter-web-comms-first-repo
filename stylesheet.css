@@ -1,7 +1,17 @@
-h1, p {
-    color:whitesmoke;
-}
+
 
 body {
     background-color: darkorchid;
+    color: whitesmoke;
 }
+
+#sandwich {
+    color:aqua;
+}
+
+li.personal {
+    color: black;
+}
+
+/* Can use .personal but it applies to everything classed as personal, not just lists */
+
